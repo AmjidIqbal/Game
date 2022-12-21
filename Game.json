@@ -1,0 +1,16 @@
+{
+"userinfo" :[
+  {
+    "Username": "Admin",
+    "Password" : "1234"
+  },
+  {
+    "Username": "Allien",
+    "Password" : "12345"
+  },
+  {
+    "Username": "Kane",
+    "Password" : "123456"
+  }
+]  
+}
